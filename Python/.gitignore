@@ -1,0 +1,7 @@
+# Virtual environment: each person creates their own with setup.bat
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+Log/
+*.log
